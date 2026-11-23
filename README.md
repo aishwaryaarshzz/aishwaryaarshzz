@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Aishwarya! 👋✨
 
-<!--
-**aishwaryaarshzz/aishwaryaarshzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-Year Computer Science Engineering Student  
+💻 Passionate about Technology, Creativity & Innovation
 
-Here are some ideas to get you started:
+### 🌱 About Me
+- 🔭 Exploring the world of programming and web development.
+- 🌱 Currently learning Python, HTML, CSS, and Django.
+- 👯 Interested in collaborating on beginner-friendly projects.
+- 🤔 Always curious to learn new technologies and solve problems.
+- 💬 Ask me about Python, HTML, CSS, and beginner-level programming.
+- 🎯 My goal is to become a successful Software Developer.
+- ⚡ Fun fact: I believe creativity and technology can turn ideas into reality!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages & Tools
+- Python
+- HTML
+- CSS
+- Django
+- Git & GitHub
+- VS Code
+
+### 🌐 Connect With Me
+- GitHub: [@aishwaryaarshzz](https://github.com/aishwaryaarshzz)
+
+---
+⭐ *"Don't sink in computers, just swim through technology!"*
